@@ -47,8 +47,8 @@ stateDiagram-v2
 
 ## Screenshots and Media
 *Please add your media files here:*
-- **(a) Streamed response with a tool call**: ![alt text](/frontend/public/image-3.png)
-- **(b) Trace timeline**: ![alt text](/frontend/public/image-1.png)
-- **(c) Context inspector showing a diff**: ![alt text](/frontend/public/image-2.png)
-- **(d) ChatInterface with Tabs**: ![alt text](/frontend/public/image.png)
+- **(a) Streamed response with a tool call**: ![alt text](public/image-3.png)
+- **(b) Trace timeline**: ![alt text](public/image-1.png)
+- **(c) Context inspector showing a diff**: ![alt text](public/image-2.png)
+- **(d) ChatInterface with Tabs**: ![alt text](public/image.png)
 - **Chaos Mode Screen Recording**: https://www.loom.com/share/11d22bfc16354bb9a81125fa06ad540e
